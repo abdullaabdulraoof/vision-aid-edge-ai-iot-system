@@ -84,7 +84,7 @@ images/project_setup.jpg
 
 Then it will automatically appear here:
 
-![Project Setup](images/project_setup.jpg)
+![Project Setup](images/project_setup.jpeg)
 
 ---
 
