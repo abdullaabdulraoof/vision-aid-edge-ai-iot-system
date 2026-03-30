@@ -6,7 +6,7 @@ This project is a real-time Edge AI system that combines computer vision, IoT se
 The system uses a YOLOv8 deep learning model for object detection and ultrasonic sensors for distance measurement.
 
 ## Project Image
-![Project Setup](images/project_setup.jpg)
+![Project Setup](images/project_setup.jpeg)
 
 ## System Architecture
 
